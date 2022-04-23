@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/owitter/static/css/main.dde78bcf.css",
-    "main.js": "/owitter/static/js/main.c475faee.js",
+    "main.js": "/owitter/static/js/main.e2100007.js",
     "index.html": "/owitter/index.html",
     "main.dde78bcf.css.map": "/owitter/static/css/main.dde78bcf.css.map",
-    "main.c475faee.js.map": "/owitter/static/js/main.c475faee.js.map"
+    "main.e2100007.js.map": "/owitter/static/js/main.e2100007.js.map"
   },
   "entrypoints": [
     "static/css/main.dde78bcf.css",
-    "static/js/main.c475faee.js"
+    "static/js/main.e2100007.js"
   ]
 }
