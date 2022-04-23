@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/owitter/static/css/main.dde78bcf.css",
-    "main.js": "/owitter/static/js/main.e2100007.js",
-    "index.html": "/owitter/index.html",
-    "main.dde78bcf.css.map": "/owitter/static/css/main.dde78bcf.css.map",
-    "main.e2100007.js.map": "/owitter/static/js/main.e2100007.js.map"
+    "main.css": "/owitter.git/static/css/main.dde78bcf.css",
+    "main.js": "/owitter.git/static/js/main.e2100007.js",
+    "index.html": "/owitter.git/index.html",
+    "main.dde78bcf.css.map": "/owitter.git/static/css/main.dde78bcf.css.map",
+    "main.e2100007.js.map": "/owitter.git/static/js/main.e2100007.js.map"
   },
   "entrypoints": [
     "static/css/main.dde78bcf.css",
